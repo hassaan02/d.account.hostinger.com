@@ -1,3 +1,3 @@
 # d.account.hostinger.com
 
-## Subdomain Takeover By Hassaan
+## Subdomain Takeover By $Hassaan
